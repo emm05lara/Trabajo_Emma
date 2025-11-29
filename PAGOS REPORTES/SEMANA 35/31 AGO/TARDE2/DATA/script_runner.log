@@ -1,0 +1,44 @@
+[2025-08-31 17:42:14] INFO: Iniciando procesamiento de archivos
+[2025-08-31 17:42:14] INFO: ============================================================
+[2025-08-31 17:42:14] INFO: Ejecutando sam_tablas.py...
+[2025-08-31 17:42:14] INFO: Salida de sam_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:14] SUCCESS: sam_tablas.py completado en 0.74 segundos
+[2025-08-31 17:42:14] INFO: Ejecutando andrea_tablas.py...
+[2025-08-31 17:42:15] INFO: Salida de andrea_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:15] SUCCESS: andrea_tablas.py completado en 0.60 segundos
+[2025-08-31 17:42:15] INFO: Ejecutando edith_tablas.py...
+[2025-08-31 17:42:16] INFO: Salida de edith_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:16] SUCCESS: edith_tablas.py completado en 0.60 segundos
+[2025-08-31 17:42:16] INFO: Ejecutando federico_tablas.py...
+[2025-08-31 17:42:16] INFO: Salida de federico_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:16] SUCCESS: federico_tablas.py completado en 0.53 segundos
+[2025-08-31 17:42:16] INFO: Ejecutando fernando_tablas.py...
+[2025-08-31 17:42:17] INFO: Salida de fernando_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:17] SUCCESS: fernando_tablas.py completado en 0.52 segundos
+[2025-08-31 17:42:17] INFO: Ejecutando olguin_tablas.py...
+[2025-08-31 17:42:17] INFO: Salida de olguin_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:17] SUCCESS: olguin_tablas.py completado en 0.53 segundos
+[2025-08-31 17:42:17] INFO: Ejecutando sofia_tablas.py...
+[2025-08-31 17:42:18] INFO: Salida de sofia_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:18] SUCCESS: sofia_tablas.py completado en 0.57 segundos
+[2025-08-31 17:42:18] INFO: Ejecutando cdc_tablas.py...
+[2025-08-31 17:42:18] INFO: Salida de cdc_tablas.py:
+Filtrado y limpieza completados. Archivo guardado como 'reporte_filtrado_sin_duplicados.xlsx'.
+
+[2025-08-31 17:42:18] SUCCESS: cdc_tablas.py completado en 0.60 segundos
+[2025-08-31 17:42:18] INFO: ============================================================
+[2025-08-31 17:42:18] SUCCESS: Procesamiento completado en 4.71 segundos
